@@ -3,7 +3,7 @@
 
 **you need to install glew and glfw** 
 
-**I complete the computer graphics assignment 5/10**
+**complete gltf model 5 out of 10**
 
 <pre> make </pre>
 
