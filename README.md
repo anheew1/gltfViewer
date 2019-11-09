@@ -7,4 +7,4 @@
 
 <pre> make </pre>
 
-<pre> ./out [filename] </pre>
+<pre> ./out [gltf filename] </pre>
